@@ -1,3 +1,0 @@
-2017-01-09 10:37:43.268 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Enter Logoff
-2017-01-09 10:37:43.269 Level=2 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	 logoff(softname=Bypass)
-2017-01-09 10:37:43.271 Level=3 class=CCrackCaptchaClient       Func=Logoff                    Err=0         	Exit Logoff(used 0ms)
